@@ -1,4 +1,4 @@
-export default function App() {
+const  App = () => {
   return (
     <div>
       <h1>
@@ -8,3 +8,4 @@ export default function App() {
  );
 }
 
+export default App;
